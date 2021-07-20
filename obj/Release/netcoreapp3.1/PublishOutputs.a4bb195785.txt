@@ -1,0 +1,9 @@
+C:\Users\Diego Baes\source\repos\DocsToPdfAPI\obj\Release\netcoreapp3.1\PubTmp\Out\DocsToPdfAPI.exe
+C:\Users\Diego Baes\source\repos\DocsToPdfAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Diego Baes\source\repos\DocsToPdfAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Diego Baes\source\repos\DocsToPdfAPI\obj\Release\netcoreapp3.1\PubTmp\Out\DocsToPdfAPI.dll
+C:\Users\Diego Baes\source\repos\DocsToPdfAPI\obj\Release\netcoreapp3.1\PubTmp\Out\DocsToPdfAPI.deps.json
+C:\Users\Diego Baes\source\repos\DocsToPdfAPI\obj\Release\netcoreapp3.1\PubTmp\Out\DocsToPdfAPI.runtimeconfig.json
+C:\Users\Diego Baes\source\repos\DocsToPdfAPI\obj\Release\netcoreapp3.1\PubTmp\Out\DocsToPdfAPI.pdb
+C:\Users\Diego Baes\source\repos\DocsToPdfAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Diego Baes\source\repos\DocsToPdfAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
